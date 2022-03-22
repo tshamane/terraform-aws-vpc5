@@ -3,3 +3,6 @@ resource "aws_vpc" "main" {
   tags       = vars.tags
 }
 
+
+
+
