@@ -3,6 +3,6 @@
 ### Usage
 ```
 module"vpc" {
-    source ="tshamane/vpc5/aws"
+    source = "tshamane/vpc5/aws"
 }
 ```
